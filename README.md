@@ -1,6 +1,6 @@
 # Elevate-task
 
-### This is an E-commerce website based on ReactJs and Tailwind CSS. The user can select and add product in cart and from there we can checkout the products.
+### This is an E-commerce website based on ReactJs and Tailwind CSS. The user can select and add product in cart and from there user can checkout the products.
 
 ### Usage-
 
